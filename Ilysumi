@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I Love You Forever</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+        }
+
+        section {
+            margin: 2em;
+        }
+
+        p {
+            font-size: 1.2em;
+            line-height: 1.6em;
+            color: #333;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>I Love You Forever</h1>
+    </header>
+
+    <section>
+        <p>My dearest Sumaiya Habibti,</p>
+        <p>In the tapestry of time, our love is a masterpiece woven with threads of joy and shared dreams. With each passing moment, my affection for you deepens, and my heart whispers the eternal truth - I love you forever.</p>
+        <p>Your presence is the melody that fills the silence of my days, and your smile, the canvas that paints my world with colors of happiness. Together, we dance through the chapters of our story, creating a narrative that is rich, elegant, and boundless.</p>
+        <p>Forever Yours,<br>[Marwan Shalih]</p>
+    </section>
+
+    <footer>
+        <p>This website is a declaration of love created by [Marwan Shalih].</p>
+    </footer>
+</body>
+
+</html>
